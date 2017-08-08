@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     public static class TimeSpanExtension
     {

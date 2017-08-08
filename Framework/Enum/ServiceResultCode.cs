@@ -1,4 +1,4 @@
-﻿namespace Framework.ENum
+﻿namespace Framework.Common.ENum
 {
     /// <summary>
     /// 服务层响应码枚举

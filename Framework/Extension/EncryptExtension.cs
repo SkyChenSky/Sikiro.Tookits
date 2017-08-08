@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     public static class EncryptExtension
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Framework.Model
+namespace Framework.Common.Model
 {
     /// <summary>
     /// 分页实体类

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Framework.Interface
+namespace Framework.Common.Interface
 {
     public interface ICache
     {

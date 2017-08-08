@@ -5,12 +5,11 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Web;
-using Framework.Extension;
-using Framework.Files;
+using Framework.Common.Extension;
 using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 
-namespace FrameWork.Files
+namespace Framework.Files
 {
     #region Excel类
     /// <summary>

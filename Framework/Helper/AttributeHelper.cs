@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Reflection;
-using Framework.Extension;
+using Framework.Common.Extension;
 
-namespace Framework.Helper
+namespace Framework.Common.Helper
 {
     /// <summary>
     /// 特性扩展类

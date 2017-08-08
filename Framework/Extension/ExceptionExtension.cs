@@ -1,7 +1,7 @@
 ﻿using System;
-using Framework.Helper;
+using Framework.Common.Helper;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     public static class ExceptionExtension
     {

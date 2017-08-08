@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Threading;
-using Framework.Extension;
+using Framework.Common.Extension;
 
-namespace Framework.Helper
+namespace Framework.Common.Helper
 {
     /// <summary>
     /// 代码性能计时器

@@ -1,6 +1,6 @@
-﻿using Framework.Model;
+﻿using Framework.Common.Model;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     /// <summary>
     /// ServiceResult扩展类

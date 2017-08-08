@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Configuration;
-using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     /// <summary>
     /// 字符串扩展方法

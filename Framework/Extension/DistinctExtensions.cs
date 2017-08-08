@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     public static class DistinctExtensions
     {

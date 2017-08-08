@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using Framework.Extension;
+using Framework.Common.Extension;
 using log4net;
 using log4net.Appender;
 
-namespace Framework.Helper
+namespace Framework.Common.Helper
 {
     /// <summary>
     /// 日志帮助类

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Framework.Attribute
+namespace Framework.Common.Attribute
 {
     ///<summary>
     /// 邮箱验证特性

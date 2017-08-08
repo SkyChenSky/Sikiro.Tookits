@@ -1,8 +1,8 @@
 ﻿using System;
-using Framework.ENum;
-using Framework.Extension;
+using Framework.Common.ENum;
+using Framework.Common.Extension;
 
-namespace Framework.Model
+namespace Framework.Common.Model
 {
     #region 服务层响应实体
     /// <summary>

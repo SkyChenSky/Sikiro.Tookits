@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Common;
 using System.Linq.Expressions;
 
-namespace Framework.Interface
+namespace Framework.Common.Interface
 {
     public interface IRepository<T> : IReadRepository<T> where T : class
     {

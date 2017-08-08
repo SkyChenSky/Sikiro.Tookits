@@ -2,7 +2,7 @@
 using System.Collections.Concurrent;
 using System.Reflection;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     public static class ReflectionExtension
     {

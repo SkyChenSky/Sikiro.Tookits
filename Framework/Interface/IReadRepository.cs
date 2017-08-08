@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq.Expressions;
-using Framework.Helper;
-using Framework.Model;
+using Framework.Common.Model;
 
-namespace Framework.Interface
+namespace Framework.Common.Interface
 {
     public interface IReadRepository<T> where T : class
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace Framework.Helper
+namespace Framework.Common.Helper
 {
     public sealed class GuidHelper
     {

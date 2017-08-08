@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Runtime.Caching;
-using Framework.Extension;
-using Framework.Interface;
+using Framework.Common.Extension;
+using Framework.Common.Interface;
 
-namespace Framework.FCache
+namespace Framework.Common.FCache
 {
     #region 本地缓存
     /// <summary>

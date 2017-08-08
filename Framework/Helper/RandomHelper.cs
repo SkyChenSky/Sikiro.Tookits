@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Framework.Helper
+namespace Framework.Common.Helper
 {
     public static class RandomHelper
     {

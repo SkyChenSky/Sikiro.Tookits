@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "Framework\Framework.csproj", "{C5A083FB-3BA2-4E32-86A4-BC3E6C2DE116}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Common", "Framework\Framework.Common.csproj", "{C5A083FB-3BA2-4E32-86A4-BC3E6C2DE116}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Files", "Framework.Files\Framework.Files.csproj", "{1879286E-82F5-4B79-A126-124AF06329F9}"
 EndProject

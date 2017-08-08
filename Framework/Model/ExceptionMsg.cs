@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Framework.Extension;
+using Framework.Common.Extension;
 
-namespace Framework.Model
+namespace Framework.Common.Model
 {
     /// <summary>
     /// 系统错误信息

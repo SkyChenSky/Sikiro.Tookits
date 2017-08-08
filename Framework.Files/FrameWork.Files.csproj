@@ -79,9 +79,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Framework\Framework.csproj">
+    <ProjectReference Include="..\Framework\Framework.Common.csproj">
       <Project>{C5A083FB-3BA2-4E32-86A4-BC3E6C2DE116}</Project>
-      <Name>Framework</Name>
+      <Name>Framework.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

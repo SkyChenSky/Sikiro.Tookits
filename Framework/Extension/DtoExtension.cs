@@ -4,7 +4,7 @@ using System.Data;
 using System.Linq;
 using EmitMapper;
 
-namespace Framework.Extension
+namespace Framework.Common.Extension
 {
     public static class DtoExtension
     {

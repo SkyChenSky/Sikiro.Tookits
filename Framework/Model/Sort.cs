@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 
-namespace Framework.Model
+namespace Framework.Common.Model
 {
     /// <summary>
     /// 排序容器类

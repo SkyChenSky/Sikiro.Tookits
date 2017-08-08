@@ -6,10 +6,10 @@ using System.Net;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using Framework.Extension;
+using Framework.Common.Extension;
 using Newtonsoft.Json;
 
-namespace Framework.Helper
+namespace Framework.Common.Helper
 {
     public class HttpWebHelper
     {
