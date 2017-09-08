@@ -15,9 +15,9 @@ namespace Framework.Common.Extension
         /// <typeparam name="TTo"></typeparam>
         /// <param name="tFrom"></param>
         /// <returns></returns>
-        public static TTo ToDto<TFrom, TTo>(this TFrom tFrom)
+        public static TTo ToDto<TFrom, TTo>(this TFrom tFrom, IMappingConfigurator iMappingConfigurator = null)
         {
-            var mapper = ObjectMapperManager.DefaultInstance.GetMapper<TFrom, TTo>();
+            var mapper = iMappingConfigurator == null ? ObjectMapperManager.DefaultInstance.GetMapper<TFrom, TTo>() : ObjectMapperManager.DefaultInstance.GetMapper<TFrom, TTo>(iMappingConfigurator);
             return mapper.Map(tFrom);
         }
 
