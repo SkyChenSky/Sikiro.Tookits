@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.1</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/SkyChenSky/Sikiro.Tookits/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/SkyChenSky/Sikiro.Tookits</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Base And Frequently-used Tools Library.You can find the code in github.https://github.com/SkyChenSky/Sikiro.Tookits </releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Sikiro Tookits Sikiro.Tookits Framework</tags>
+  </metadata>
+</package>

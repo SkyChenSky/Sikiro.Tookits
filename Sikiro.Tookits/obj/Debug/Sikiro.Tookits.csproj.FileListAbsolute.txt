@@ -1,0 +1,13 @@
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\Sikiro.Tookits.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\Sikiro.Tookits.pdb
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\EmitMapper.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\log4net.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\Newtonsoft.Json.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\log4net.xml
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\Newtonsoft.Json.xml
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\obj\Debug\Sikiro.Tookits.csprojResolveAssemblyReference.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\obj\Debug\Sikiro.Tookits.csproj.CoreCompileInputs.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\obj\Debug\Sikiro.Tookits.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits\obj\Debug\Sikiro.Tookits.pdb
