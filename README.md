@@ -1,4 +1,4 @@
-# Sikiro.Tookits                                         [中文](https://github.com/SkyChenSky/Sikiro.DapperLambdaExtension.MsSql/blob/master/README.zh-cn.md)
+# Sikiro.Tookits                                         [中文](https://github.com/SkyChenSky/Sikiro.Tookits/blob/master/README.zh-cn.md)
 Sikiro.Tookits is base And Frequently-used Tools Library.
 
 ## Getting Started
@@ -36,7 +36,7 @@ Guid guid = GuidHelper.GenerateComb();
 and so on
 
 ### Others
-Besides Sikiro.Tookits, there are Sikiro.Tookits.Files[https://github.com/SkyChenSky/Sikiro.Tookits.Files]、 Sikiro.Tookits.LocalCache[https://github.com/SkyChenSky/Sikiro.Tookits.LocalCache] and Sikiro.DapperLambdaExtension.MsSql[https://github.com/SkyChenSky/Sikiro.DapperLambdaExtension.MsSql]
+Besides Sikiro.Tookits, there are [Sikiro.Tookits.Files](https://github.com/SkyChenSky/Sikiro.Tookits.Files)、 [Sikiro.Tookits.LocalCache](https://github.com/SkyChenSky/Sikiro.Tookits.LocalCache) and [Sikiro.DapperLambdaExtension.MsSql](https://github.com/SkyChenSky/Sikiro.DapperLambdaExtension.MsSql)
 
 ## End
 If you have good suggestions, please feel free to mention to me.
