@@ -248,17 +248,17 @@ namespace Sikiro.Tookits.Core.Extension
         /// <summary>
         /// 格式化银行卡号
         /// </summary>
-        /// <param name="bankCark"></param>
+        /// <param name="bankCard"></param>
         /// <returns></returns>
-        public static string FmtBankCard(this string bankCark)
+        public static string FmtBankCard(this string bankCard)
         {
-            if (!bankCark.IsNullOrEmpty() && bankCark.Length > 4)
+            if (!bankCard.IsNullOrEmpty() && bankCard.Length > 4)
             {
                 var regx = new Regex(@"(?<=\d{4})\d+(?=\d{4})", RegexOptions.IgnoreCase);
-                bankCark = regx.Replace(bankCark, " **** **** ");
+                bankCard = regx.Replace(bankCard, " **** **** ");
             }
 
-            return bankCark;
+            return bankCard;
         }
 
         #endregion     
