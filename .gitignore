@@ -5,3 +5,7 @@
 /.vs
 /packages
 /Sikiro.Tookits.Core.Samples/bin/Debug/netcoreapp2.0
+/Sikiro.Tookits.Core/bin/Release
+/Sikiro.Tookits.Core/obj/Release
+/Sikiro.Tookits.Core.Samples/obj/Release/netcoreapp2.0
+/Sikiro.Tookits/obj/Release

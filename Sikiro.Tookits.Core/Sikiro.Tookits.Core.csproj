@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>陈珙</Authors>
+    <Company>陈珙</Company>
+    <Version>1.1.0</Version>
+    <Description>Base And Frequently-used Tools Library</Description>
+    <PackageProjectUrl>https://github.com/SkyChenSky/Sikiro.Tookits.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SkyChenSky/Sikiro.Tookits.git</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>Sikiro Tookits log4net json.net json framework</PackageTags>
+    <Copyright></Copyright>
+    <PackageLicenseUrl>https://github.com/SkyChenSky/Sikiro.Tookits/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageId>Sikiro.Tookits</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
