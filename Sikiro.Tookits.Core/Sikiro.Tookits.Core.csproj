@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>陈珙</Authors>
+    <Company>陈珙</Company>
+    <Version>1.1.0</Version>
+    <Description>Base And Frequently-used Tools Library</Description>
+    <PackageProjectUrl>https://github.com/SkyChenSky/Sikiro.Tookits.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SkyChenSky/Sikiro.Tookits.git</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>Sikiro Tookits log4net json.net json framework</PackageTags>
+    <Copyright></Copyright>
+    <PackageLicenseUrl>https://github.com/SkyChenSky/Sikiro.Tookits/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageId>Sikiro.Tookits</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.ComponentModel.DataAnnotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Configuration.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

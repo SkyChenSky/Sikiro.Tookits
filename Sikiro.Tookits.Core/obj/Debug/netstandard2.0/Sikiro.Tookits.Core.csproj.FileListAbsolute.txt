@@ -1,0 +1,15 @@
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.csproj.CoreCompileInputs.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.AssemblyInfoInputs.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.AssemblyInfo.cs
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\Sikiro.Tookits.Core.deps.json
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\Sikiro.Tookits.Core.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Configuration.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Security.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Configuration.xml
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Security.xml
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\Sikiro.Tookits.Core.pdb
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.pdb
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.csprojResolveAssemblyReference.cache
