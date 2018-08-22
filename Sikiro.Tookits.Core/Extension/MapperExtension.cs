@@ -2,11 +2,34 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using Mapster;
 
 namespace Sikiro.Tookits.Core.Extension
 {
     public static class MapperExtension
     {
+        /// <summary>
+        /// 对象映射
+        /// </summary>
+        /// <typeparam name="TFrom"></typeparam>
+        /// <typeparam name="TResult"></typeparam>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        public static TResult MapTo<TFrom, TResult>(this TFrom obj)
+        {
+            return new Adapter().Adapt<TFrom, TResult>(obj);
+        }
+
+        /// <summary>
+        /// 对象映射
+        /// </summary>
+        /// <typeparam name="TResult"></typeparam>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        public static TResult MapTo<TResult>(this object obj)
+        {
+            return new Adapter().Adapt<TResult>(obj);
+        }
 
         /// <summary>
         /// List转DataTable
